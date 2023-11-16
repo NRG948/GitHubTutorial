@@ -113,12 +113,12 @@ You are now ready to begin making changes.
 
 ### 7. Add your information
 
-For this tutorial, you'll create a new file in under the current school year
-folder in the `data` folder. There is a `template.txt` file containing a
-template of the information to provide. You new file should be named using your
-GitHub user name and end with `.txt`.
+For this tutorial, you'll create a new file under the current school year folder
+in the `data` folder. There is a `template.txt` file containing a template of
+the information to provide. Your new file should be named using your GitHub user
+name and end with `.txt`.
 
-As an example, I add a file at `data/SY2023-2024/edreed.txt` with the following
+As an example, I added a file, `data/SY2023-2024/edreed.txt`, with the following
 contents:
 
 ```text
