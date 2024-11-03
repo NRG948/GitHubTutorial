@@ -1,0 +1,3 @@
+name: Jiayue Quan
+role: Rookie
+year: 1
